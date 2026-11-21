@@ -85,3 +85,8 @@ section.hero-space-video .hero-space-video-overlay,
   }
 }
 
+
+/* Header logo arrangement */
+.header .header-container .header__logo{display:flex;align-items:center;height:auto;padding:.5rem 0}
+.header .header-container .header__logo img{height:80px;width:auto;max-width:100%}
+@media(max-width: 1199px){.header .header-container .header__logo img{height:60px}}
