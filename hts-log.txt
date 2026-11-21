@@ -1,0 +1,132 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 18 Sep 2026 13:44:28 at https://afu.ae/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://afu.ae/ -O1 "C:\My Web Sites\Al Falah University" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+13:46:54	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://afu.ae/)
+
+13:49:57	Warning: 	Moved Permanently for https://afu.ae/study/fees-living-costs/cost-of-living/
+
+13:49:57	Warning: 	File has moved from https://afu.ae/study/fees-living-costs/cost-of-living/ to /explore/living-dubai/cost/
+
+13:52:45	Warning: 	Moved Permanently for https://afu.ae/explore/testing-centre/ielts/
+
+13:52:45	Warning: 	File has moved from https://afu.ae/explore/testing-centre/ielts/ to /explore/testing-centre/
+
+13:52:45	Warning: 	Moved Permanently for https://afu.ae/explore/testing-centre/pearson/
+
+13:52:45	Warning: 	File has moved from https://afu.ae/explore/testing-centre/pearson/ to /explore/testing-centre/
+
+13:52:45	Warning: 	Moved Permanently for https://afu.ae/explore/testing-centre/kte/
+
+13:52:45	Warning: 	File has moved from https://afu.ae/explore/testing-centre/kte/ to /explore/testing-centre/
+
+13:52:45	Warning: 	Moved Permanently for https://afu.ae/explore/testing-centre/victvs/
+
+13:52:45	Warning: 	File has moved from https://afu.ae/explore/testing-centre/victvs/ to /explore/testing-centre/
+
+13:52:49	Warning: 	Moved Permanently for https://afu.ae/explore/accreditation-rankings/accreditations/
+
+13:52:49	Warning: 	File has moved from https://afu.ae/explore/accreditation-rankings/accreditations/ to /explore/accreditation-rankings/
+
+13:52:49	Warning: 	Moved Permanently for https://afu.ae/explore/accreditation-rankings/khda-rankings/
+
+13:52:49	Warning: 	File has moved from https://afu.ae/explore/accreditation-rankings/khda-rankings/ to /explore/accreditation-rankings/
+
+13:52:49	Warning: 	Moved Permanently for https://afu.ae/explore/accreditation-rankings/international-rankings/
+
+13:52:49	Warning: 	File has moved from https://afu.ae/explore/accreditation-rankings/international-rankings/ to /explore/accreditation-rankings/
+
+13:52:49	Warning: 	Moved Permanently for https://afu.ae/explore/accreditation-rankings/professional-accreditations-memberships/
+
+13:52:49	Warning: 	File has moved from https://afu.ae/explore/accreditation-rankings/professional-accreditations-memberships/ to /explore/accreditation-rankings/
+
+13:53:03	Warning: 	Moved Permanently for https://afu.ae/explore/transfer-perth/how-apply/
+
+13:53:03	Warning: 	File has moved from https://afu.ae/explore/transfer-perth/how-apply/ to /apply/how-apply/
+
+13:56:31	Warning: 	Link https://afu.ae/discover/generic/ not scanned (follow robots meta tag)
+
+13:56:44	Error: 	"Not Found" (404) at link https://afu.ae/wp-content/themes/wp-murdoch-dubai/images/icons/atom-laptop.svg (from https://afu.ae/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+
+13:56:44	Error: 	"Not Found" (404) at link https://afu.ae/wp-content/themes/wp-murdoch-dubai/images/icons/dollar.svg (from https://afu.ae/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+
+13:56:44	Error: 	"Not Found" (404) at link https://afu.ae/wp-content/themes/wp-murdoch-dubai/images/icons/fingerprint-page.svg (from https://afu.ae/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+
+13:56:44	Error: 	"Not Found" (404) at link https://afu.ae/wp-content/themes/wp-murdoch-dubai/images/icons/book.svg (from https://afu.ae/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+
+13:56:44	Error: 	"Not Found" (404) at link https://afu.ae/wp-content/themes/wp-murdoch-dubai/images/icons/design.svg (from https://afu.ae/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+
+13:56:44	Error: 	"Not Found" (404) at link https://afu.ae/wp-content/themes/wp-murdoch-dubai/images/icons/cogs.svg (from https://afu.ae/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+
+13:56:44	Error: 	"Not Found" (404) at link https://afu.ae/wp-content/themes/wp-murdoch-dubai/images/icons/heartbeat.svg (from https://afu.ae/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+
+13:56:44	Error: 	"Not Found" (404) at link https://afu.ae/wp-content/themes/wp-murdoch-dubai/images/icons/nature-in-hands.svg (from https://afu.ae/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+
+13:56:44	Error: 	"Not Found" (404) at link https://afu.ae/wp-content/themes/wp-murdoch-dubai/images/icons/building.svg (from https://afu.ae/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+
+13:56:44	Error: 	"Not Found" (404) at link https://afu.ae/wp-content/themes/wp-murdoch-dubai/images/icons/microscope.svg (from https://afu.ae/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+
+13:56:44	Error: 	"Not Found" (404) at link https://afu.ae/wp-content/themes/wp-murdoch-dubai/images/icons/head-bulb.svg (from https://afu.ae/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+
+13:56:44	Error: 	"Not Found" (404) at link https://afu.ae/wp-content/themes/wp-murdoch-dubai/images/icons/briefcase.svg (from https://afu.ae/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+
+13:56:44	Error: 	"Not Found" (404) at link https://afu.ae/wp-content/themes/wp-murdoch-dubai/images/icons/hand-shake.svg (from https://afu.ae/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+
+13:56:48	Warning: 	Link https://afu.ae/contact/thank-you/ not scanned (follow robots meta tag)
+
+13:56:58	Warning: 	Moved Permanently for https://afu.ae/explore/student-life/campus/faculty-academics/
+
+13:56:58	Warning: 	File has moved from https://afu.ae/explore/student-life/campus/faculty-academics/ to /explore/student-life/faculty-academics/
+
+13:57:07	Warning: 	Link https://afu.ae/discover/open-days/ not scanned (follow robots meta tag)
+
+13:57:07	Error: 	"Not Found" (404) at link https://afu.ae/explore/media/downloads/ (from https://afu.ae/explore/media/)
+
+13:57:11	Warning: 	Moved Permanently for https://afu.ae/apply/find-agent/
+
+13:57:11	Warning: 	File has moved from https://afu.ae/apply/find-agent/ to /apply/online-application/find-agent/
+
+13:57:11	Error: 	"Not Found" (404) at link https://afu.ae/apply/online-application-2/find-agent/ (from https://afu.ae/apply/online-application/find-agent/choose-agent/)
+
+13:57:20	Warning: 	Moved Permanently for https://afu.ae/aspire/
+
+13:57:20	Warning: 	File has moved from https://afu.ae/aspire/ to https://afu.ae/succeed/aspire/
+
+13:57:20	Warning: 	Moved Permanently for https://afu.ae/aspire/micro-blog-list/
+
+13:57:20	Warning: 	File has moved from https://afu.ae/aspire/micro-blog-list/ to https://afu.ae/succeed/aspire/microblog/micro-blog-list/
+
+13:57:29	Warning: 	Moved Permanently for https://afu.ae/event-list/
+
+13:57:29	Warning: 	File has moved from https://afu.ae/event-list/ to https://afu.ae/succeed/aspire/event-list/
+
+13:57:32	Warning: 	Link https://afu.ae/request-brochure/thank-you/ not scanned (follow robots meta tag)
+
+13:57:39	Warning: 	Link https://afu.ae/thank-you/ not scanned (follow robots meta tag)
+
+13:57:40	Error: 	"Not Found" (404) at link https://afu.ae/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/font/context-menu-icons.eot?4f0ru (from https://afu.ae/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/jquery.contextMenu.min.css?ver=2.6.4)
+
+13:57:40	Error: 	"Not Found" (404) at link https://afu.ae/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/font/context-menu-icons.woff2?4f0ru (from https://afu.ae/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/jquery.contextMenu.min.css?ver=2.6.4)
+
+13:57:40	Error: 	"Not Found" (404) at link https://afu.ae/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/font/context-menu-icons.woff?4f0ru (from https://afu.ae/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/jquery.contextMenu.min.css?ver=2.6.4)
+
+13:57:40	Error: 	"Not Found" (404) at link https://afu.ae/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/font/context-menu-icons.ttf?4f0ru (from https://afu.ae/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/jquery.contextMenu.min.css?ver=2.6.4)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 54 seconds : 1125 links scanned, 1089 files written (120138648 bytes overall) [97387670 bytes received at 116771 bytes/sec], 39020954 bytes transferred using HTTP compression in 659 files, ratio 37%, 27.4 requests per connection
+
+(20 errors, 35 warnings, 0 messages)
+

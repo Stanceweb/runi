@@ -1,0 +1,250 @@
+.nvt-find-agent .find-agent-form-wrapper{
+    border: 1px solid #dee2e6;
+    padding: 2rem;
+    border-radius: 0px;
+}
+
+.nvt-find-agent .find-agent-form-wrapper .agent-input-wrapper {
+    margin-right: 1rem;
+}
+
+.nvt-find-agent .find-agent-form-wrapper .form-group {
+    margin-bottom: 0.5rem;
+}
+
+.nvt-find-agent .find-agent-form-wrapper .form-control {
+    display: inline-block;
+    width: 60%;
+    margin-right: 1rem;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+/***
+.nvt-find-agent .find-agent-form-wrapper .agent-search-field-wrapper label {
+
+    vertical-align: middle;
+    margin-right: 0.75rem;
+}
+
+.nvt-find-agent .find-agent-form-wrapper .agent-search-field-wrapper .agent-select-field {
+    margin-right: 0.3125rem;
+}
+
+
+.nvt-find-agent .find-agent-form-wrapper .find-agent-btn {
+    padding: 0.3em 1em;
+}
+
+**/
+
+.nvt-find-agent .find-agent-form-wrapper .find-agent-btn:focus,
+.nvt-find-agent .find-agent-form-wrapper .find-agent-btn:active:focus,
+.nvt-find-agent .find-agent-form-wrapper .find-agent-btn:focus-visible {
+    outline: none !important;
+}
+
+.nvt-find-agent .modal-header .agency-name,
+.nvt-find-agent .search-agent-heading {
+    line-height: 1.2em;
+}
+
+.nvt-find-agent .modal-header .agency-name {
+    width: 94%;
+}
+
+.nvt-find-agent .btn-close,
+.nvt-find-agent .agent-modal-close {
+    position: absolute;
+    right: 1.5rem;
+    top: 1rem;
+    border: none;
+    background-color: unset;
+    color: #7f7f7f;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.nvt-find-agent .agent-modal-close:hover {
+    color: #000000;
+    outline: none;
+}
+
+.nvt-find-agent .find-agent-form-wrapper .agent-input-wrapper label[for=agent-search-input-id] {
+    display: none;
+}
+.nvt-find-agent .find-agent-form-wrapper .twitter-typeahead {
+    width: 100%
+}
+
+.nvt-find-agent .agent-results a.agent-details {
+    text-decoration: underline !important;
+}
+.nvt-find-agent .agent-results a.agent-details:hover {
+    cursor: pointer;
+    text-decoration: none !important;
+}
+
+.nvt-find-agent .agent-results .modal-header {
+    display: block;
+}
+
+/*** Agent Filter ***/
+.nvt-find-agent .agent-filter-btn {
+    margin-right: 10px;
+    margin-top: 10px;
+    border-radius: 0px;
+    border: 2px solid #ccc;
+
+}
+.nvt-find-agent  ul#agent-country-list,
+.nvt-find-agent  ul#agent-city-list {
+    padding-inline-start: 0;
+    margin-bottom: 0;
+    padding: 0.5rem 1rem;
+}
+
+.nvt-find-agent  ul#agent-country-list li,
+.nvt-find-agent  ul#agent-city-list li {
+    display: none;
+    list-style: none;
+    padding-left: 0;
+}
+
+.nvt-find-agent  ul#agent-country-list li:before,
+.nvt-find-agent  ul#agent-city-list li:before {
+    content: '';
+    position: relative;
+}
+
+
+.nvt-find-agent .agent-results-filters input[type=checkbox],
+.nvt-find-agent .agent-results-filters input[type=radio] {
+    float: right; margin-top: 5px;
+}
+
+.nvt-find-agent .agent-results-filters label {
+    width: 80%;
+    font-size: inherit;
+    font-family: inherit;
+}
+.nvt-find-agent .filter-accordion .card {
+    border-bottom: 1px solid rgba(0,0,0,.125) !important;
+    border-radius: 0px !important;
+}
+
+/*** show more or less ***/
+.nvt-find-agent .agent-show-more-less {
+    display: none;
+    color: #000000;
+    cursor: pointer;
+    text-decoration: underline;
+    padding: 0.5rem;
+    padding-top: 0;
+}
+.nvt-find-agent .agent-show-more-less:hover {
+    color: #000000;
+    text-decoration: none;
+}
+/*** End Agent Filter ***/
+
+
+/*** Agent Details Modal ***/
+.nvt-find-agent .modal-header {
+    padding: 3rem 2rem 2rem;
+}
+
+.nvt-find-agent .modal-body {
+    padding: 2rem;
+}
+
+/*** Agent Details Modal ***/
+
+/*** Agent Result ***/
+
+.nvt-find-agent .agent-result-summary {
+    font-size: 20px;
+}
+
+.nvt-find-agent .agent-delete-filter.hidden {
+    display: none;
+}
+
+.nvt-find-agent .agent-result-filter-section {
+    background-color: #f1f1f1;
+    border-radius: 0px;
+}
+
+.nvt-find-agent .agent-delete-filter-label {
+    border: 2px solid #CCC;
+    display: inline-block;
+    border-radius: 0px;
+    overflow: hidden;
+    background-color: #CCC;
+    align-items: center;
+    cursor: pointer;
+    margin-right: 5px;
+    padding-left: 10px;
+    margin-bottom: 0;
+}
+
+.nvt-find-agent .agent-delete-filter-label:after {
+    display: inline-block;
+    font-size: 18px;
+    content: 'X';
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.nvt-find-agent .agent_table_sort {
+    border: 1px solid #dee2e6;
+    border-radius: 0px;
+    font-size: inherit;
+    font-family: inherit;
+    border-spacing: 0;
+    border-collapse: separate;
+    overflow: hidden;
+}
+
+.nvt-find-agent .agent_table_sort th {
+    background-color: #f1f1f1;
+    color: #000000;
+    font-weight: bold;
+    border-bottom-width: 1px !important;
+}
+
+.nvt-find-agent .agent_table_sort th.agent-result-column:hover {
+    cursor: pointer;
+}
+
+.nvt-find-agent .agent-sort-icon {
+    padding-left: 5px;
+}
+
+.nvt-find-agent .agency-name-col {
+    width: 35%;
+}
+
+.nvt-find-agent .contact-name-col {
+    width: 20%;
+}
+
+.nvt-find-agent .city-col,
+.nvt-find-agent .country-col {
+    width: 20%;
+}
+
+/*** Agent Result ***/
+
+.nvt-find-agent .agent-nvt-loading-icon {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('../images/loading.gif')
+                50% 50% no-repeat rgba(249,249,249, 60%);
+    display: none;
+
+}
