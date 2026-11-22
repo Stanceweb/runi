@@ -1,6 +1,6 @@
-HTTrack3.49-2+htsswf+htsjava launched on Fri, 18 Sep 2026 13:44:28 at https://ruad.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 18 Sep 2026 13:44:28 at https://russianuniuae.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ruad.com/ -O1 "C:\My Web Sites\Russian University" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://russianuniuae.com/ -O1 "C:\My Web Sites\Russian University" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 
 
@@ -14,115 +14,115 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 
 
 
-13:46:54	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://ruad.com/)
+13:46:54	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://russianuniuae.com/)
 
-13:49:57	Warning: 	Moved Permanently for https://ruad.com/study/fees-living-costs/cost-of-living/
+13:49:57	Warning: 	Moved Permanently for https://russianuniuae.com/study/fees-living-costs/cost-of-living/
 
-13:49:57	Warning: 	File has moved from https://ruad.com/study/fees-living-costs/cost-of-living/ to /explore/living-dubai/cost/
+13:49:57	Warning: 	File has moved from https://russianuniuae.com/study/fees-living-costs/cost-of-living/ to /explore/living-dubai/cost/
 
-13:52:45	Warning: 	Moved Permanently for https://ruad.com/explore/testing-centre/ielts/
+13:52:45	Warning: 	Moved Permanently for https://russianuniuae.com/explore/testing-centre/ielts/
 
-13:52:45	Warning: 	File has moved from https://ruad.com/explore/testing-centre/ielts/ to /explore/testing-centre/
+13:52:45	Warning: 	File has moved from https://russianuniuae.com/explore/testing-centre/ielts/ to /explore/testing-centre/
 
-13:52:45	Warning: 	Moved Permanently for https://ruad.com/explore/testing-centre/pearson/
+13:52:45	Warning: 	Moved Permanently for https://russianuniuae.com/explore/testing-centre/pearson/
 
-13:52:45	Warning: 	File has moved from https://ruad.com/explore/testing-centre/pearson/ to /explore/testing-centre/
+13:52:45	Warning: 	File has moved from https://russianuniuae.com/explore/testing-centre/pearson/ to /explore/testing-centre/
 
-13:52:45	Warning: 	Moved Permanently for https://ruad.com/explore/testing-centre/kte/
+13:52:45	Warning: 	Moved Permanently for https://russianuniuae.com/explore/testing-centre/kte/
 
-13:52:45	Warning: 	File has moved from https://ruad.com/explore/testing-centre/kte/ to /explore/testing-centre/
+13:52:45	Warning: 	File has moved from https://russianuniuae.com/explore/testing-centre/kte/ to /explore/testing-centre/
 
-13:52:45	Warning: 	Moved Permanently for https://ruad.com/explore/testing-centre/victvs/
+13:52:45	Warning: 	Moved Permanently for https://russianuniuae.com/explore/testing-centre/victvs/
 
-13:52:45	Warning: 	File has moved from https://ruad.com/explore/testing-centre/victvs/ to /explore/testing-centre/
+13:52:45	Warning: 	File has moved from https://russianuniuae.com/explore/testing-centre/victvs/ to /explore/testing-centre/
 
-13:52:49	Warning: 	Moved Permanently for https://ruad.com/explore/accreditation-rankings/accreditations/
+13:52:49	Warning: 	Moved Permanently for https://russianuniuae.com/explore/accreditation-rankings/accreditations/
 
-13:52:49	Warning: 	File has moved from https://ruad.com/explore/accreditation-rankings/accreditations/ to /explore/accreditation-rankings/
+13:52:49	Warning: 	File has moved from https://russianuniuae.com/explore/accreditation-rankings/accreditations/ to /explore/accreditation-rankings/
 
-13:52:49	Warning: 	Moved Permanently for https://ruad.com/explore/accreditation-rankings/khda-rankings/
+13:52:49	Warning: 	Moved Permanently for https://russianuniuae.com/explore/accreditation-rankings/khda-rankings/
 
-13:52:49	Warning: 	File has moved from https://ruad.com/explore/accreditation-rankings/khda-rankings/ to /explore/accreditation-rankings/
+13:52:49	Warning: 	File has moved from https://russianuniuae.com/explore/accreditation-rankings/khda-rankings/ to /explore/accreditation-rankings/
 
-13:52:49	Warning: 	Moved Permanently for https://ruad.com/explore/accreditation-rankings/international-rankings/
+13:52:49	Warning: 	Moved Permanently for https://russianuniuae.com/explore/accreditation-rankings/international-rankings/
 
-13:52:49	Warning: 	File has moved from https://ruad.com/explore/accreditation-rankings/international-rankings/ to /explore/accreditation-rankings/
+13:52:49	Warning: 	File has moved from https://russianuniuae.com/explore/accreditation-rankings/international-rankings/ to /explore/accreditation-rankings/
 
-13:52:49	Warning: 	Moved Permanently for https://ruad.com/explore/accreditation-rankings/professional-accreditations-memberships/
+13:52:49	Warning: 	Moved Permanently for https://russianuniuae.com/explore/accreditation-rankings/professional-accreditations-memberships/
 
-13:52:49	Warning: 	File has moved from https://ruad.com/explore/accreditation-rankings/professional-accreditations-memberships/ to /explore/accreditation-rankings/
+13:52:49	Warning: 	File has moved from https://russianuniuae.com/explore/accreditation-rankings/professional-accreditations-memberships/ to /explore/accreditation-rankings/
 
-13:53:03	Warning: 	Moved Permanently for https://ruad.com/explore/transfer-perth/how-apply/
+13:53:03	Warning: 	Moved Permanently for https://russianuniuae.com/explore/transfer-perth/how-apply/
 
-13:53:03	Warning: 	File has moved from https://ruad.com/explore/transfer-perth/how-apply/ to /apply/how-apply/
+13:53:03	Warning: 	File has moved from https://russianuniuae.com/explore/transfer-perth/how-apply/ to /apply/how-apply/
 
-13:56:31	Warning: 	Link https://ruad.com/discover/generic/ not scanned (follow robots meta tag)
+13:56:31	Warning: 	Link https://russianuniuae.com/discover/generic/ not scanned (follow robots meta tag)
 
-13:56:44	Error: 	"Not Found" (404) at link https://ruad.com/wp-content/themes/wp-murdoch-dubai/images/icons/atom-laptop.svg (from https://ruad.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+13:56:44	Error: 	"Not Found" (404) at link https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/images/icons/atom-laptop.svg (from https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
 
-13:56:44	Error: 	"Not Found" (404) at link https://ruad.com/wp-content/themes/wp-murdoch-dubai/images/icons/dollar.svg (from https://ruad.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+13:56:44	Error: 	"Not Found" (404) at link https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/images/icons/dollar.svg (from https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
 
-13:56:44	Error: 	"Not Found" (404) at link https://ruad.com/wp-content/themes/wp-murdoch-dubai/images/icons/fingerprint-page.svg (from https://ruad.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+13:56:44	Error: 	"Not Found" (404) at link https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/images/icons/fingerprint-page.svg (from https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
 
-13:56:44	Error: 	"Not Found" (404) at link https://ruad.com/wp-content/themes/wp-murdoch-dubai/images/icons/book.svg (from https://ruad.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+13:56:44	Error: 	"Not Found" (404) at link https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/images/icons/book.svg (from https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
 
-13:56:44	Error: 	"Not Found" (404) at link https://ruad.com/wp-content/themes/wp-murdoch-dubai/images/icons/design.svg (from https://ruad.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+13:56:44	Error: 	"Not Found" (404) at link https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/images/icons/design.svg (from https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
 
-13:56:44	Error: 	"Not Found" (404) at link https://ruad.com/wp-content/themes/wp-murdoch-dubai/images/icons/cogs.svg (from https://ruad.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+13:56:44	Error: 	"Not Found" (404) at link https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/images/icons/cogs.svg (from https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
 
-13:56:44	Error: 	"Not Found" (404) at link https://ruad.com/wp-content/themes/wp-murdoch-dubai/images/icons/heartbeat.svg (from https://ruad.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+13:56:44	Error: 	"Not Found" (404) at link https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/images/icons/heartbeat.svg (from https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
 
-13:56:44	Error: 	"Not Found" (404) at link https://ruad.com/wp-content/themes/wp-murdoch-dubai/images/icons/nature-in-hands.svg (from https://ruad.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+13:56:44	Error: 	"Not Found" (404) at link https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/images/icons/nature-in-hands.svg (from https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
 
-13:56:44	Error: 	"Not Found" (404) at link https://ruad.com/wp-content/themes/wp-murdoch-dubai/images/icons/building.svg (from https://ruad.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+13:56:44	Error: 	"Not Found" (404) at link https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/images/icons/building.svg (from https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
 
-13:56:44	Error: 	"Not Found" (404) at link https://ruad.com/wp-content/themes/wp-murdoch-dubai/images/icons/microscope.svg (from https://ruad.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+13:56:44	Error: 	"Not Found" (404) at link https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/images/icons/microscope.svg (from https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
 
-13:56:44	Error: 	"Not Found" (404) at link https://ruad.com/wp-content/themes/wp-murdoch-dubai/images/icons/head-bulb.svg (from https://ruad.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+13:56:44	Error: 	"Not Found" (404) at link https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/images/icons/head-bulb.svg (from https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
 
-13:56:44	Error: 	"Not Found" (404) at link https://ruad.com/wp-content/themes/wp-murdoch-dubai/images/icons/briefcase.svg (from https://ruad.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+13:56:44	Error: 	"Not Found" (404) at link https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/images/icons/briefcase.svg (from https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
 
-13:56:44	Error: 	"Not Found" (404) at link https://ruad.com/wp-content/themes/wp-murdoch-dubai/images/icons/hand-shake.svg (from https://ruad.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
+13:56:44	Error: 	"Not Found" (404) at link https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/images/icons/hand-shake.svg (from https://russianuniuae.com/wp-content/themes/wp-murdoch-dubai/css/main.css?ver=6.9.8)
 
-13:56:48	Warning: 	Link https://ruad.com/contact/thank-you/ not scanned (follow robots meta tag)
+13:56:48	Warning: 	Link https://russianuniuae.com/contact/thank-you/ not scanned (follow robots meta tag)
 
-13:56:58	Warning: 	Moved Permanently for https://ruad.com/explore/student-life/campus/faculty-academics/
+13:56:58	Warning: 	Moved Permanently for https://russianuniuae.com/explore/student-life/campus/faculty-academics/
 
-13:56:58	Warning: 	File has moved from https://ruad.com/explore/student-life/campus/faculty-academics/ to /explore/student-life/faculty-academics/
+13:56:58	Warning: 	File has moved from https://russianuniuae.com/explore/student-life/campus/faculty-academics/ to /explore/student-life/faculty-academics/
 
-13:57:07	Warning: 	Link https://ruad.com/discover/open-days/ not scanned (follow robots meta tag)
+13:57:07	Warning: 	Link https://russianuniuae.com/discover/open-days/ not scanned (follow robots meta tag)
 
-13:57:07	Error: 	"Not Found" (404) at link https://ruad.com/explore/media/downloads/ (from https://ruad.com/explore/media/)
+13:57:07	Error: 	"Not Found" (404) at link https://russianuniuae.com/explore/media/downloads/ (from https://russianuniuae.com/explore/media/)
 
-13:57:11	Warning: 	Moved Permanently for https://ruad.com/apply/find-agent/
+13:57:11	Warning: 	Moved Permanently for https://russianuniuae.com/apply/find-agent/
 
-13:57:11	Warning: 	File has moved from https://ruad.com/apply/find-agent/ to /apply/online-application/find-agent/
+13:57:11	Warning: 	File has moved from https://russianuniuae.com/apply/find-agent/ to /apply/online-application/find-agent/
 
-13:57:11	Error: 	"Not Found" (404) at link https://ruad.com/apply/online-application-2/find-agent/ (from https://ruad.com/apply/online-application/find-agent/choose-agent/)
+13:57:11	Error: 	"Not Found" (404) at link https://russianuniuae.com/apply/online-application-2/find-agent/ (from https://russianuniuae.com/apply/online-application/find-agent/choose-agent/)
 
-13:57:20	Warning: 	Moved Permanently for https://ruad.com/aspire/
+13:57:20	Warning: 	Moved Permanently for https://russianuniuae.com/aspire/
 
-13:57:20	Warning: 	File has moved from https://ruad.com/aspire/ to https://ruad.com/succeed/aspire/
+13:57:20	Warning: 	File has moved from https://russianuniuae.com/aspire/ to https://russianuniuae.com/succeed/aspire/
 
-13:57:20	Warning: 	Moved Permanently for https://ruad.com/aspire/micro-blog-list/
+13:57:20	Warning: 	Moved Permanently for https://russianuniuae.com/aspire/micro-blog-list/
 
-13:57:20	Warning: 	File has moved from https://ruad.com/aspire/micro-blog-list/ to https://ruad.com/succeed/aspire/microblog/micro-blog-list/
+13:57:20	Warning: 	File has moved from https://russianuniuae.com/aspire/micro-blog-list/ to https://russianuniuae.com/succeed/aspire/microblog/micro-blog-list/
 
-13:57:29	Warning: 	Moved Permanently for https://ruad.com/event-list/
+13:57:29	Warning: 	Moved Permanently for https://russianuniuae.com/event-list/
 
-13:57:29	Warning: 	File has moved from https://ruad.com/event-list/ to https://ruad.com/succeed/aspire/event-list/
+13:57:29	Warning: 	File has moved from https://russianuniuae.com/event-list/ to https://russianuniuae.com/succeed/aspire/event-list/
 
-13:57:32	Warning: 	Link https://ruad.com/request-brochure/thank-you/ not scanned (follow robots meta tag)
+13:57:32	Warning: 	Link https://russianuniuae.com/request-brochure/thank-you/ not scanned (follow robots meta tag)
 
-13:57:39	Warning: 	Link https://ruad.com/thank-you/ not scanned (follow robots meta tag)
+13:57:39	Warning: 	Link https://russianuniuae.com/thank-you/ not scanned (follow robots meta tag)
 
-13:57:40	Error: 	"Not Found" (404) at link https://ruad.com/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/font/context-menu-icons.eot?4f0ru (from https://ruad.com/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/jquery.contextMenu.min.css?ver=2.6.4)
+13:57:40	Error: 	"Not Found" (404) at link https://russianuniuae.com/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/font/context-menu-icons.eot?4f0ru (from https://russianuniuae.com/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/jquery.contextMenu.min.css?ver=2.6.4)
 
-13:57:40	Error: 	"Not Found" (404) at link https://ruad.com/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/font/context-menu-icons.woff2?4f0ru (from https://ruad.com/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/jquery.contextMenu.min.css?ver=2.6.4)
+13:57:40	Error: 	"Not Found" (404) at link https://russianuniuae.com/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/font/context-menu-icons.woff2?4f0ru (from https://russianuniuae.com/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/jquery.contextMenu.min.css?ver=2.6.4)
 
-13:57:40	Error: 	"Not Found" (404) at link https://ruad.com/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/font/context-menu-icons.woff?4f0ru (from https://ruad.com/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/jquery.contextMenu.min.css?ver=2.6.4)
+13:57:40	Error: 	"Not Found" (404) at link https://russianuniuae.com/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/font/context-menu-icons.woff?4f0ru (from https://russianuniuae.com/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/jquery.contextMenu.min.css?ver=2.6.4)
 
-13:57:40	Error: 	"Not Found" (404) at link https://ruad.com/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/font/context-menu-icons.ttf?4f0ru (from https://ruad.com/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/jquery.contextMenu.min.css?ver=2.6.4)
+13:57:40	Error: 	"Not Found" (404) at link https://russianuniuae.com/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/font/context-menu-icons.ttf?4f0ru (from https://russianuniuae.com/wp-content/plugins/data-tables-generator-by-supsystic/src/SupsysticTables/Core/assets/css/lib/jquery.contextMenu.min.css?ver=2.6.4)
 
 
 
